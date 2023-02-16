@@ -28,7 +28,7 @@ body {
 }
 .right {
 	position: initial;
-	background-color: rgb(166, 218, 225);
+	border-color: rgb(166, 218, 225);
 	padding: 20px;
 
 }
